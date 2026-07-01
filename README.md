@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=777BB4&height=200&section=header&text=Goodday%20I%20am%20Yohji%20Ng&fontSize=40&fontColor=ffffff" alt="Banner" />
 </p>
 
-# I'm Into **Cybersecurity, Exploit Development, and CTF competitions**
+# I'm Into **Cybersecurity, Exploit Development, and CTF **
 
 ---
 
