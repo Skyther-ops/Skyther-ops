@@ -1,6 +1,6 @@
 <!-- 1. HEADER BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=777BB4&height=200&section=header&text=Hello!%20I%20am%20Developer&fontSize=40&fontColor=ffffff" alt="Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=777BB4&height=200&section=header&text=Hello!%20I%20am%20Student&fontSize=40&fontColor=ffffff" alt="Banner" />
 </p>
 
 # Hi there, I'm Yohji ng👋
