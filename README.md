@@ -12,15 +12,28 @@
 I am a motivated IT student who is extremely passionate about full-stack web development and exploring the fields of cybersecurity and offensive security penetration testing. I love tackling complex architecture challenges and analyzing systems from both a defensive and offensive perspective.
 
 ---
+## 🛠️ Technical Arsenal
 
-### 🛠️ My Tech Stack
+### 💻 Development & Web Architecture
+Building robust, scalable applications from the ground up.
+* **Languages:** ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+* **Frameworks:** ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+* **Data Storage:** ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 
-| Category | Badges |
-| :--- | :--- |
-| **Languages & Logic** | ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) |
-| **Web Frameworks** | ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) |
-| **Cybersecurity & Pentesting** | ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white) ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6600?style=for-the-badge&logo=portswigger&logoColor=white) ![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=white) |
-| **Environment & Tools** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) |
+### 💀 Offensive Security & CTFs
+Analyzing targets, pivoting networks, and investigating software vulnerabilities.
+* **Platforms:** ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white) ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white)
+* **Interception & Exploitation:** ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6600?style=flat-square&logo=portswigger&logoColor=white) ![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=flat-square&logo=metasploit&logoColor=white)
+
+---
+
+## 🎯 Current Focus & Core Interests
+
+> 🛑 **Disclaimer:** All offensive security knowledge is applied strictly within authorized environments, labs, and CTF infrastructures.
+
+* 🖥️ **Exploit Development:** Breaking down binary operations, understanding memory structures, and writing custom shellcode.
+* 🏆 **CTF Competitions:** Active participant focusing heavily on Web Exploitation, Cryptography, and Reverse Engineering.
+* 🔒 **Secure Coding:** Implementing robust backend logic to actively mitigate OWASP Top 10 vulnerabilities during the development phase.
 
 ---
 
