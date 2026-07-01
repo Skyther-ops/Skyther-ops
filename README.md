@@ -32,7 +32,7 @@ Analyzing targets, pivoting networks, and investigating software vulnerabilities
 > 🛑 **Disclaimer:** All offensive security knowledge is applied strictly within authorized environments, labs, and CTF infrastructures.
 
 * 🖥️ **Exploit Development:** Breaking down binary operations, understanding memory structures, and writing custom shellcode.
-* 🏆 **CTF Competitions:** Active participant focusing heavily on Web Exploitation, Cryptography, and Reverse Engineering.
+* 🏴 **CTF :** Active participant focuses on Web Exploitation, Cryptography, and Reverse Engineering.
 * 🔒 **Secure Coding:** Implementing robust backend logic to actively mitigate OWASP Top 10 vulnerabilities during the development phase.
 
 ---
